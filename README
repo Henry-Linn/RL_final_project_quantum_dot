@@ -1,0 +1,11 @@
+There are no dependencies that need to be downloaded.
+
+Instruction for running and building the code:
+
+1. Make sure your computer has downloaded python. You can check if you have installed it or not by typing "python -version" into your terminal.
+2. Open up the terminal and cd into where you unzip the final_report.zip.
+3. Type "python monte_carlo.py" to run Monte Carlo simulation.
+4. Type "python td_methods.py" to run SARSA simulation.
+5. Type "python dynamic_programming.py" to run dynamic programming simulation.
+
+Note: These python files will generate the plots that we used in our report.
